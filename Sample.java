@@ -1,0 +1,11 @@
+class Sample{
+	
+	
+int i;
+
+
+
+
+
+
+}
