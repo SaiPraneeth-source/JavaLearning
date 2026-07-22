@@ -1,4 +1,4 @@
-class Pattern2{
+class DiamondPattern{
 
 public static void main(String args[]){
 
